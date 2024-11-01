@@ -55,7 +55,7 @@ export const Cursor = ({
       alt="Cursor"
       src={assets.cursor}
       width={80}
-      height={50}
+      height={50} 
     />
   );
 };
